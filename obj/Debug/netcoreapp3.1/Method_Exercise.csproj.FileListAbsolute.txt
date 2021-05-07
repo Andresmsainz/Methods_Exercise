@@ -1,0 +1,13 @@
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Method_Exercise\bin\Debug\netcoreapp3.1\Method_Exercise.exe
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Method_Exercise\bin\Debug\netcoreapp3.1\Method_Exercise.deps.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Method_Exercise\bin\Debug\netcoreapp3.1\Method_Exercise.runtimeconfig.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Method_Exercise\bin\Debug\netcoreapp3.1\Method_Exercise.runtimeconfig.dev.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Method_Exercise\bin\Debug\netcoreapp3.1\Method_Exercise.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Method_Exercise\bin\Debug\netcoreapp3.1\Method_Exercise.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Method_Exercise\obj\Debug\netcoreapp3.1\Method_Exercise.csprojAssemblyReference.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Method_Exercise\obj\Debug\netcoreapp3.1\Method_Exercise.AssemblyInfoInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Method_Exercise\obj\Debug\netcoreapp3.1\Method_Exercise.AssemblyInfo.cs
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Method_Exercise\obj\Debug\netcoreapp3.1\Method_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Method_Exercise\obj\Debug\netcoreapp3.1\Method_Exercise.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Method_Exercise\obj\Debug\netcoreapp3.1\Method_Exercise.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Method_Exercise\obj\Debug\netcoreapp3.1\Method_Exercise.genruntimeconfig.cache
